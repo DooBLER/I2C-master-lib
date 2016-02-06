@@ -1,3 +1,6 @@
+
+This fork ist just for my purposes if you want "clean" code go to the original library.
+
 # I2C Master library
 
 ## Table of contents
